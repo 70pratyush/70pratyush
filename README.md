@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=70pratyush&label=Profile%20views&color=0e75b6&style=flat" alt="70pratyush" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<a href="https://linkedin.com/in/70pratyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="70pratyush" height="30" width="40" /></a>
 - 🌱 I’m currently learning **Mern , Android**
 
 - 👨‍💻 All of my projects are available at [https://pratyush-portfolio-website.netlify.app/](https://pratyush-portfolio-website.netlify.app/)
