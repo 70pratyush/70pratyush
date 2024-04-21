@@ -1,7 +1,7 @@
 
 
 
-[![MasterHead](https://www.shutterstock.com/video/clip-1015145509-glitch---green-sistem-hack)
+[![MasterHead](https://wallpapers.com/images/hd/naruto-anime-rcfvdga5dle2z53f.jpg)
 <h1 align="center">Hi 👋, I'm Pratyush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
